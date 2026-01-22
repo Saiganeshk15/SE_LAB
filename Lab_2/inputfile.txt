@@ -1,0 +1,4 @@
+S101 Alice Math 35 55 Physics 30 50 Chem 38 58 English 25 45 History 40 60
+S102 Bob Math 20 40 Physics 25 45 Chem 30 50 English 22 42 History 28 48
+S103 Charlie Math 39 59 Physics 38 58 Chem 40 60 English 37 57 History 39 59
+S104 David Math 10 20 Physics 15 25 Chem 12 30 English 10 20 History 15 25
